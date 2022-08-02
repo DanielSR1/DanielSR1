@@ -1,5 +1,5 @@
 ### Hi there, I'M DANIEL 👋
-Estudante de Sistemas de Informação(1/8)
+Estudante de Sistemas de Informação(2/8)
 
 Focado no desenvolvimento em Python
 
